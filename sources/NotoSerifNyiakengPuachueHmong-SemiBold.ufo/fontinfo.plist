@@ -11,7 +11,7 @@
     <key>descender</key>
     <integer>-226</integer>
     <key>familyName</key>
-    <string>Noto Serif Nyiakeng Puachue Hmong</string>
+    <string>Noto Serif NP Hmong</string>
     <key>italicAngle</key>
     <integer>0</integer>
     <key>openTypeHeadCreated</key>
@@ -105,7 +105,7 @@
       <integer>345</integer>
     </array>
     <key>postscriptFontName</key>
-    <string>NotoSerifHmongNyiakeng-SemiBold</string>
+    <string>NotoSerifNPHmong-SemiBold</string>
     <key>postscriptOtherBlues</key>
     <array>
       <integer>-236</integer>
@@ -128,7 +128,7 @@
     <key>postscriptUnderlineThickness</key>
     <integer>50</integer>
     <key>styleMapFamilyName</key>
-    <string>Noto Serif Hmong Nyiakeng SemiBold</string>
+    <string>Noto Serif NP Hmong SemiBold</string>
     <key>styleName</key>
     <string>SemiBold</string>
     <key>trademark</key>
