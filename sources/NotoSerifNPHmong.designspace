@@ -18,16 +18,6 @@
         <dimension name="Weight" xvalue="94"/>
       </location>
     </source>
-    <source filename="NotoSerifNPHmong-Medium.ufo" name="Noto Serif NP Hmong Medium" familyname="Noto Serif NP Hmong" stylename="Medium">
-      <location>
-        <dimension name="Weight" xvalue="110"/>
-      </location>
-    </source>
-    <source filename="NotoSerifNPHmong-SemiBold.ufo" name="Noto Serif NP Hmong SemiBold" familyname="Noto Serif NP Hmong" stylename="SemiBold">
-      <location>
-        <dimension name="Weight" xvalue="130"/>
-      </location>
-    </source>
     <source filename="NotoSerifNPHmong-Bold.ufo" name="Noto Serif NP Hmong Bold" familyname="Noto Serif NP Hmong" stylename="Bold">
       <location>
         <dimension name="Weight" xvalue="152"/>
